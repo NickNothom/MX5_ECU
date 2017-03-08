@@ -11,5 +11,10 @@ Still need to work out some issues with air intake temperature sensing, as my se
 
 Swapped injectors to 420cc RX8 Yellows.
 
+### 20170212
+
+Adjusted accel enrichment, warmup enrichment. Aiming to solve lean condition after startup and warmup.
+
+
 
 ![alt text](https://github.com/NickNothom/MX5_ECU/raw/master/projectCfg/plot.jpg "Logo Title Text 1")
