@@ -14,7 +14,7 @@ Swapped injectors to 420cc RX8 Yellows.
 ### 20170212
 
 Adjusted accel enrichment, warmup enrichment. Aiming to solve lean condition after startup and warmup. Disabled MAT correction during ASE. 
-
+Autotune session to account for changes in rest of map. 
 
 
 ![alt text](https://github.com/NickNothom/MX5_ECU/raw/master/projectCfg/plot.jpg "Logo Title Text 1")
