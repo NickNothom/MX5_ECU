@@ -7,5 +7,9 @@ Still need to work out some issues with air intake temperature sensing, as my se
 
 ## Log:
 
+### 20170211
+
+Swapped injectors to 420cc RX8 Yellows.
+
 
 ![alt text](https://github.com/NickNothom/MX5_ECU/raw/master/projectCfg/plot.jpg "Logo Title Text 1")
