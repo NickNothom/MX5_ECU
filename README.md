@@ -13,7 +13,7 @@ Swapped injectors to 420cc RX8 Yellows.
 
 ### 20170212
 
-Adjusted accel enrichment, warmup enrichment. Aiming to solve lean condition after startup and warmup.
+Adjusted accel enrichment, warmup enrichment. Aiming to solve lean condition after startup and warmup. Disabled MAT correction during ASE. 
 
 
 
