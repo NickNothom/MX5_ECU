@@ -21,3 +21,6 @@ Autotune session to account for changes in rest of map.
 
 ### 20170313
 Re-endbled MAT correction because of issues on extreme cold starts. Reevaluate when warm. 
+
+### 20170317
+TODO: Adjust fuel map to be richer in low rpm range. Re-run autotune to compensate. 
