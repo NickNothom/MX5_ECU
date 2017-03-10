@@ -6,19 +6,18 @@ Still need to work out some issues with air intake temperature sensing, as my se
 
 See log below for details.
 
-
 ![alt text](https://github.com/NickNothom/MX5_ECU/raw/master/projectCfg/plot.jpg "Logo Title Text 1")
 
 ## Log:
 
-### 20170211
+### 20170311
 
 Swapped injectors to 420cc RX8 Yellows.
 
-### 20170212
+### 20170312
 
 Adjusted accel enrichment, warmup enrichment. Aiming to solve lean condition after startup and warmup. Disabled MAT correction during ASE. 
 Autotune session to account for changes in rest of map. 
 
-### 20170213
+### 20170313
 Re-endbled MAT correction because of issues on extreme cold starts. Reevaluate when warm. 
