@@ -23,4 +23,7 @@ Autotune session to account for changes in rest of map.
 Re-endbled MAT correction because of issues on extreme cold starts. Reevaluate when warm. 
 
 ### 20170317
-TODO: Adjust fuel map to be richer in low rpm range. Re-run autotune to compensate. Going lean on fast throttle up at low RPM. Especially bad at low temperatures. Maybe tune accel enrichment more?
+Adjust fuel map to be richer in low rpm range. Re-run autotune to compensate. Going lean on fast throttle up at low RPM. Especially bad at low temperatures. Maybe tune accel enrichment more?
+
+### 20170410
+Performance good and reliable in temp ranges. Remaining issue: hesitation on throttle at low RPM (2000RPM)
